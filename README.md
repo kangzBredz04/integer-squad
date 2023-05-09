@@ -11,8 +11,20 @@ Fitur :
 
 ```c
  void main(){
-    printf("Hello Word");
+    printf("Hello World");
  }
+```
+
+```py
+print("Hello World")
+```
+
+```java
+class main{
+    public static void main(String args[]){
+        System.out.println("Hello World");
+    }
+}
 ```
 
 # Hello World !!!
