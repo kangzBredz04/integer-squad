@@ -9,6 +9,12 @@ Fitur :
 - Comment
 - Like
 
+```c
+ void main(){
+    printf("Hello Word");
+ }
+```
+
 # Hello World !!!
 
 ![](pasim.png)
